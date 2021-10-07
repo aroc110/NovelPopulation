@@ -4,9 +4,17 @@ Supplementary Files for "Novel Population Genetics in Ciliates due to Nuclear Di
 
 File list:
 Simulation_Results_Fixation_Probability :: Excel file containing fixation probabilities from simulations
+
+
 Simulation_Results_Segregation_Time     :: Excel file containing segregation times from simulations
+
+
 finPop.py                               :: Python file containing code for Selection-drift simulations
+
+
 balFinPop.py                            :: Python file containing code for Selection-Mutation-Drift simulations used in study
+
+
 SupplementaryFiguresAndTables           :: PDF containing supplementary figures and tables
 
 Instructions for finPop.py and balFinPop.py:
